@@ -1,0 +1,16 @@
+select::placeholder, textarea::placeholder, input[type="text"]::placeholder, input[type="password"]::placeholder, input[type="datetime"]::placeholder, input[type="datetime-local"]::placeholder, input[type="date"]::placeholder, input[type="month"]::placeholder, input[type="time"]::placeholder, input[type="week"]::placeholder, input[type="number"]::placeholder, input[type="email"]::placeholder, input[type="url"]::placeholder, input[type="search"]::placeholder, input[type="tel"]::placeholder, input[type="color"]::placeholder {
+    color: #969696;
+    opacity: 1;
+}
+.ish-icon-waves-outline::before {
+    content: '\e808';
+}
+.ish-ph-mn-be_resp a:hover, .ish-ph-mn-be_resp a.ish-active, .ish-ph-mn-be_resp .current_page_ancestor > a, .ish-ph-mn-be_resp .current_page_item > a, .ish-ph-mn-be_resp .current_page_parent > a, .ish-ph-mn-be_resp .ish-op-active > a {
+    color: #fff;
+}
+
+.ish-pt-taglines-additional h4 {
+    font-size: 20px;
+    padding-bottom: 10px;
+	hyphens: none;
+}
